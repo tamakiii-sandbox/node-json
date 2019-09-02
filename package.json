@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/node-json/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/node-json#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/node-json#readme",
+  "dependencies": {
+    "json-query": "^2.2.2"
+  }
 }
